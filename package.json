@@ -1,0 +1,58 @@
+{
+  "_from": "git+ssh://git@gitee.com:lxk0301/jd_scripts.git",
+  "_id": "LXK9301@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/LXK9301",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+ssh://git@gitee.com:lxk0301/jd_scripts.git",
+    "rawSpec": "git+ssh://git@gitee.com:lxk0301/jd_scripts.git",
+    "saveSpec": "git+ssh://git@gitee.com:lxk0301/jd_scripts.git",
+    "fetchSpec": "git@gitee.com:lxk0301/jd_scripts.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+ssh://git@gitee.com:lxk0301/jd_scripts.git#2287d54be119a6a00c7e46ca17171d93a27720ef",
+  "_spec": "git+ssh://git@gitee.com:lxk0301/jd_scripts.git",
+  "_where": "/mnt/d/Documents/x-jd-web",
+  "author": {
+    "name": "LXK9301"
+  },
+  "bugs": {
+    "url": "https://github.com/LXK9301/jd_scripts/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "download": "^8.0.0",
+    "got": "^11.5.1",
+    "http-server": "^0.12.3",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "tough-cookie": "^4.0.0",
+    "tunnel": "0.0.6",
+    "ws": "^7.4.3"
+  },
+  "deprecated": false,
+  "description": "{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}",
+  "homepage": "https://github.com/LXK9301/jd_scripts#readme",
+  "keywords": [
+    "京东薅羊毛工具, 京东水果、宠物、种豆等等"
+  ],
+  "license": "ISC",
+  "main": "AlipayManor.js",
+  "name": "LXK9301",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LXK9301/jd_scripts.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
